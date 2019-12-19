@@ -32,7 +32,7 @@ main {
 	height: 30px;
 	background-color: orange;
 	color: white;
-	font-size: 25px;
+	font-size: 22px;
 	text-align: center;
 }
 .img1 {
@@ -65,4 +65,13 @@ main {
 	.box {
 		width: 90%;
         margin-bottom: 20px;
-	}}
+	}
+    .img1 {
+    	width: 100%;
+    	}
+    .img2 {
+    	width: 100%;
+    	}
+    .img3 {
+    	width: 100%;
+    	}}
